@@ -1,0 +1,15 @@
+
+__pycache__/example.cpython-310.pyc
+_example.so
+data.bin
+data_go.bin
+example-package/example.c
+example-package/example.go
+example-package/example.h
+example-package/example_wrap.c
+example.o
+example.py
+example_wrap.c
+example_wrap.o
+go.mod
+test
